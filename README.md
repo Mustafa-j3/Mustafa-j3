@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mustafa-j3
-- 👀 I’m interested in Data Management,Data manupulation,AI.
+- 👀 I’m interested in Data Analytics,Machine Learning, AI, Data Visualiaztion.
 - 🌱 I’m currently learning Data Science all related.
-- 💞️ I’m looking to collaborate on Data Management. 
+- 💞️ I’m looking to collaborate on Data Analytics and Machine Learning. 
 - 📫 How to reach me mustafa.jan5059@gmail.com
 
 <!---
